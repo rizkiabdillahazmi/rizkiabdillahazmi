@@ -4,7 +4,9 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rizki-abdillah-azmi-96b01a214/)
 
 Hey there 👋
+
 I'm Rizki Abdillah Azmi, an enthusiast with Information and AI-powered technology in the Electrical and Computer fields.
+
 Want to know more about me? [Check out my portfolio.](http://rizkiabdillahazmi.my.id/)
 
 ## 🔧 Skills & Tools
