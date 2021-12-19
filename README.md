@@ -1,6 +1,6 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/rizkiabdillahazmi/rizkiabdillahazmi/master/wave.gif" width="30px">, I'm Rizki Abdillah Azmi</h1>
 
-## 🔧 Technologies & Tools
+## 🔧 Skills & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellijidea&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Editor-VSCODE-informational?style=flat&logo=visualstudiocode&logoColor=white&color=2bbc8a)
