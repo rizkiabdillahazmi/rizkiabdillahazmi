@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rizki Abdillah Azmi</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/rizkiabdillahazmi/rizkiabdillahazmi/master/wave.gif" width="30px">, I'm Rizki Abdillah Azmi</h1>
 
 ## 🔧 Technologies & Tools
 ![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
