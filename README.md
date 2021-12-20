@@ -1,7 +1,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/rizkiabdillahazmi/rizkiabdillahazmi/master/wave.gif" width="30px">, I'm Rizki Abdillah Azmi</h1>
 
 ## 😎 About Me
-[![Portfolio Badge](https://img.shields.io/badge/Instagram-Profile-Informational?style=flat&logo=website&logoColor=white&color=1CA2F1)](http://rizkiabdillahazmi.my.id/)
+[![Portfolio Badge](https://img.shields.io/badge/Instagram-Profile-Informational?style=flat&logo=web&logoColor=white&color=1CA2F1)](http://rizkiabdillahazmi.my.id/)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-Informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/rizkiabdillahazmi/)
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rizki_a_azmi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rizki-abdillah-azmi-96b01a214/)
