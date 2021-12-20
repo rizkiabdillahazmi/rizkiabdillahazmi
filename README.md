@@ -5,8 +5,6 @@
 [![Twitter Badge](https://img.shields.io/badge/Twitter-Profile-informational?style=flat&logo=twitter&logoColor=white&color=1CA2F1)](https://twitter.com/rizki_a_azmi)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/rizki-abdillah-azmi-96b01a214/)
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkiabdillahazmi&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats"/>
-
 Hey there 👋
 
 I'm Rizki Abdillah Azmi, an enthusiast with Information and AI-powered technology in the Electrical and Computer fields.
@@ -33,6 +31,8 @@ Want to know more about me? [Check out my portfolio.](http://rizkiabdillahazmi.m
 <br>
 
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github*
+
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=rizkiabdillahazmi&show_icons=true&include_all_commits=true&theme=default" alt="Anurag's github stats"/>
 <!-- <a href="https://github.com/rizkiabdillahazmi"> -->
 <!--   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rizkiabdillahazmi&hide=html,text,tex,M&title_color=ffffff&text_color=c9cacc&icon_color=2bbc8a&bg_color=1d1f21&langs_count=5" /> -->
 <!-- </a> -->
