@@ -9,7 +9,7 @@
 
 Hey there 👋
 
-I am a Backend Engineer with a primary expertise in Java programming language. I have experience in building and maintaining efficient, scalable, and reliable backend applications.
+I'm a Backend Engineer with a primary expertise in Java programming language. I have experience in building and maintaining efficient, scalable, and reliable backend applications.
 
 Want to know more about me? [Check out my portfolio.](http://rizkiabdillahazmi.my.id/)
 
